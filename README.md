@@ -20,7 +20,14 @@ A lightweight Chrome extension that lets you **view webpage information** and **
 
 ## Screenshots
 
-> *(Optional: Include screenshots of overlay, cookie list, permission prompts.)*  
+### Overlay on Google.com
+![Webpage Info Overlay](./images/overlay-screenshot.png)
+
+### Background Script Console Logs
+![Background Console Logs](./images/background-console.png)
+
+### Content Script Console Logs
+![Content Script Logs](./images/content-console.png)
 
 ---
 
